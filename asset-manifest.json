@@ -4,17 +4,17 @@
     "main.js.map": "/static/js/main.249371dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.37884cf8.js",
     "runtime-main.js.map": "/static/js/runtime-main.37884cf8.js.map",
-    "static/js/2.081d82ee.chunk.js": "/static/js/2.081d82ee.chunk.js",
-    "static/js/2.081d82ee.chunk.js.map": "/static/js/2.081d82ee.chunk.js.map",
+    "static/js/2.853c0a93.chunk.js": "/static/js/2.853c0a93.chunk.js",
+    "static/js/2.853c0a93.chunk.js.map": "/static/js/2.853c0a93.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ef48425178bbc3a64d704b44277ef67f.js": "/precache-manifest.ef48425178bbc3a64d704b44277ef67f.js",
+    "precache-manifest.f79eac80e0b64abd66c21927509a958d.js": "/precache-manifest.f79eac80e0b64abd66c21927509a958d.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.081d82ee.chunk.js.LICENSE.txt": "/static/js/2.081d82ee.chunk.js.LICENSE.txt",
+    "static/js/2.853c0a93.chunk.js.LICENSE.txt": "/static/js/2.853c0a93.chunk.js.LICENSE.txt",
     "static/media/audiman.jpg": "/static/media/audiman.f3a67f93.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.37884cf8.js",
-    "static/js/2.081d82ee.chunk.js",
+    "static/js/2.853c0a93.chunk.js",
     "static/js/main.249371dc.chunk.js"
   ]
 }
