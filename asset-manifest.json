@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/image_gallery/static/js/main.2c8ca377.chunk.js",
-    "main.js.map": "/image_gallery/static/js/main.2c8ca377.chunk.js.map",
+    "main.js": "/image_gallery/static/js/main.0df55231.chunk.js",
+    "main.js.map": "/image_gallery/static/js/main.0df55231.chunk.js.map",
     "runtime-main.js": "/image_gallery/static/js/runtime-main.8167acd2.js",
     "runtime-main.js.map": "/image_gallery/static/js/runtime-main.8167acd2.js.map",
-    "static/js/2.75e9ba61.chunk.js": "/image_gallery/static/js/2.75e9ba61.chunk.js",
-    "static/js/2.75e9ba61.chunk.js.map": "/image_gallery/static/js/2.75e9ba61.chunk.js.map",
+    "static/js/2.f130587e.chunk.js": "/image_gallery/static/js/2.f130587e.chunk.js",
+    "static/js/2.f130587e.chunk.js.map": "/image_gallery/static/js/2.f130587e.chunk.js.map",
     "index.html": "/image_gallery/index.html",
-    "precache-manifest.e26ab77435f0b821b9c83e9f2d50db34.js": "/image_gallery/precache-manifest.e26ab77435f0b821b9c83e9f2d50db34.js",
+    "precache-manifest.a66abee62eee448225b620feb8f82aaa.js": "/image_gallery/precache-manifest.a66abee62eee448225b620feb8f82aaa.js",
     "service-worker.js": "/image_gallery/service-worker.js",
-    "static/js/2.75e9ba61.chunk.js.LICENSE.txt": "/image_gallery/static/js/2.75e9ba61.chunk.js.LICENSE.txt",
+    "static/js/2.f130587e.chunk.js.LICENSE.txt": "/image_gallery/static/js/2.f130587e.chunk.js.LICENSE.txt",
     "static/media/audiman.jpg": "/image_gallery/static/media/audiman.f3a67f93.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8167acd2.js",
-    "static/js/2.75e9ba61.chunk.js",
-    "static/js/main.2c8ca377.chunk.js"
+    "static/js/2.f130587e.chunk.js",
+    "static/js/main.0df55231.chunk.js"
   ]
 }
